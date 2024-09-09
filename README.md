@@ -29,3 +29,6 @@ Within the context of the practicum project, I analyzed pantries that commonly r
   H<sub>a</sub>: p<sub>1,med</sub> > p<sub>2,med</sub>
 
 ## Deliverables
+
+## Presentation and Poster
+You can view my slideshow and research poster [here.](https://github.com/liv4data/mph-practicum/blob/0eb1770a582647943260d2448cd6194f0d853482/Ross-Olivia-Practicum-Presentation.pdf)
