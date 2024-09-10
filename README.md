@@ -28,6 +28,31 @@ Within the context of the practicum project, I analyzed pantries that commonly r
 
   H<sub>a</sub>: p<sub>1,med</sub> > p<sub>2,med</sub>
 
+## Methods
+1. Identified and ranked purchased products based on saturated fat, sodium, and sugar content
+   
+2. Stratified pantries by county and randomy sampled within strata using random number generator
+   - Ratio approximately 1 pantry identified represented approximately 5 pantries
+         
+3. Invoices examined
+   - Excluded donated items, as they are often assorted and not ranked
+   - CFAP, TANF, TEFAP products excluded, as they are allocated by grant funding
+
+4. Extracted data from database
+   - Used Jet Reports add-on in Microsoft Excel, as user permissions were extremely limited
+   - Meshed invoice table data with inventory card item
+   - Period 1: August 1, 2020 to October 31, 2020
+   - Period 2: January 1, 2021 to March 31, 2021
+  
+5. Created PivotTable of foods, summarizing food rankings by proportion of total extended gross weight
+   
+6. Tested hypotheses using match-paired test via Paired Wilcoxon Rank Test
+   - Used proportion of red foods for testing
+   - Performed hypothesis testing with R
+
+## Results
+
+
 ## Deliverables
 
 ## Presentation and Poster
