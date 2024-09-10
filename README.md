@@ -52,6 +52,11 @@ Within the context of the practicum project, I analyzed pantries that commonly r
 
 ## Results
 
+|Figure 1|Figure 2|
+|---|---|
+|/assets/images/pantries_after.png|Proportion|
+
+main/pantries_after.png
 
 ## Deliverables
 
