@@ -54,9 +54,10 @@ Within the context of the practicum project, I analyzed pantries that commonly r
 
 |Figure 1|Figure 2|
 |---|---|
-|/assets/images/pantries_after.png|Proportion|
+|![Historgram of proportion of red foods before](https://github.com/liv4data/mph-practicum/blob/110811f7833207a8fedd2fc685afef11ff42dc02/pantries_before.png)|![Histogram of proportion of red foods after](https://github.com/liv4data/mph-practicum/blob/516ba98d25096544a95e490cff042a745e535533/pantries_after.png)|
 
 main/pantries_after.png
+![Histogram of proportion of red foods after](https://github.com/liv4data/mph-practicum/blob/516ba98d25096544a95e490cff042a745e535533/pantries_after.png)
 
 ## Deliverables
 
