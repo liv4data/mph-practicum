@@ -52,12 +52,29 @@ Within the context of the practicum project, I analyzed pantries that commonly r
 
 ## Results
 
-|Figure 1|Figure 2|
+|![Historgram of proportion of red foods before](https://github.com/liv4data/mph-practicum/blob/667dd374be316f463992795997622f2a524bdb29/results_pantries_before.png)|![Histogram of proportion of red foods after](https://github.com/liv4data/mph-practicum/blob/667dd374be316f463992795997622f2a524bdb29/results_pantries_after.png)|
 |---|---|
-|![Historgram of proportion of red foods before](https://github.com/liv4data/mph-practicum/blob/110811f7833207a8fedd2fc685afef11ff42dc02/pantries_before.png)|![Histogram of proportion of red foods after](https://github.com/liv4data/mph-practicum/blob/516ba98d25096544a95e490cff042a745e535533/pantries_after.png)|
+|**Figure 1.** Histogram of the proportion of red foods prior to beginning nutritional conversations with pantries.|**Figure 2.** Histogram of the proportion of red foods six months after initiating nutritional conversations with pantries.|
 
-main/pantries_after.png
-![Histogram of proportion of red foods after](https://github.com/liv4data/mph-practicum/blob/516ba98d25096544a95e490cff042a745e535533/pantries_after.png)
+
+|Paired Wilcoxon Rank Test| α=0.05 |
+|---|---|
+| H<sub>0</sub>: p<sub>1,med</sub> = p<sub>2,med</sub> |  H<sub>a</sub>: p<sub>1,med</sub> > p<sub>2,med</sub> |
+| V = 121 | p-value = 0.0174 |
+
+## Discussion of Results
+The results of the Paired Wilcoxon Rank test resulted in a p-value less than the significance level of 0.05, so the null hypothesis was rejected. Based on the alternative hypothesis, there was a decrease in the proportion of red foods distributed at the pantries between periods 1 and 2. 
+
+However, it does not necessarily mean that pantries are distributing healthier foods to their clients. When taking into account the amount of grant funding allocated to certain projects as well as the freedom of agencies to select what they would like to receive from the foodbank, each invoice has a different total gross weight of foods distributed. 
+
+### Limitations
+1. This study was limited to agencies that made purchases between the two periods and did not include pantries outside of this range, or pantries that received items due to grant funding
+   - This excclusion does not necessarily mean that these pantries aren't distributing nutritious foods
+
+2. Due to time constraints, not every food was ranked, which led to exclusions of many items from invoice reports, which could impact the data
+
+## Conclusion
+This research led us to understand the nutritional profile of foods distributed by some pantries in the Greater Hampton Roads area. While it does not explain the whole population of food pantries, it does display a potential for improvement as a continuation of the SWAP initiative. Even if a pantry does not want to, or does not have the means to, implement SWAP at their pantry, there are still several methods to change the food pantry landscape and what foods are offered. 
 
 ## Deliverables
 
