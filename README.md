@@ -76,7 +76,6 @@ However, it does not necessarily mean that pantries are distributing healthier f
 ## Conclusion
 This research led us to understand the nutritional profile of foods distributed by some pantries in the Greater Hampton Roads area. While it does not explain the whole population of food pantries, it does display a potential for improvement as a continuation of the SWAP initiative. Even if a pantry does not want to, or does not have the means to, implement SWAP at their pantry, there are still several methods to change the food pantry landscape and what foods are offered. 
 
-## Deliverables
 
 ## Presentation and Poster
 You can view my slideshow and research poster [here.](https://github.com/liv4data/mph-practicum/blob/0eb1770a582647943260d2448cd6194f0d853482/Ross-Olivia-Practicum-Presentation.pdf)
